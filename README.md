@@ -5,6 +5,8 @@
 - ⚡ Фан факты: я люблю четные числа и четверги. Иногда для развлечения паяю микросхемы. Запустила скрипт на hh, который автоматически откликается на вакансии.
 - 📫 Telegram для связи: @baconanna
 
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
 <!--
 **baconanna/baconanna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
