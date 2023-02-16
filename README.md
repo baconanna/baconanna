@@ -2,7 +2,7 @@
 
 My name is Anya. I recently finished my training at Yandex.Practicum in Data Analytics, and so now:
 
-- 🔭 I'm looking for a job as a data analyst in IT.
+- 🔭 I'm looking for a job as a Data Analyst in IT.
 - 💬 High level googling in Russian and English.
 - 🌱 I'm continuing to tighten up my hard-skills analytics and spoken English.
 - ⚡ Fan Facts: I love even numbers and Thursdays. Sometimes I solder circuits for fun. 
