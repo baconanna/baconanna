@@ -1,6 +1,6 @@
 ### Hi 👋
 
-My name is Anya. I recently finished my training at Yandex.Practicum in Data Analytics, and so now:
+My name is Anya. I recently finished my training at Yandex.Practicum in Data Analysis, and so now:
 
 - 🔭 I'm looking for a job as a Data Analyst in IT.
 - 💬 High level googling in Russian and English.
