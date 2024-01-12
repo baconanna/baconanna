@@ -1,12 +1,4 @@
-### Hi 👋
-
-My name is Anya. I recently finished my training at Yandex.Practicum in Data Analysis, and so now:
-
-- 🔭 I'm looking for a job as a Data Analyst in IT.
-- 💬 High level googling in Russian and English.
-- 🌱 I'm continuing to tighten up my hard-skills analytics and spoken English.
-- ⚡ Fan Facts: I love even numbers and Thursdays. Sometimes I solder circuits for fun. 
-- 📫 Telegram for contact: @baconanna
+### 
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
@@ -31,4 +23,14 @@ Here are some ideas to get you started:
 - 🌱 Я продолжаю подтягивать хард скиллс аналитика и разговорный английский.
 - ⚡ Фан факты: я люблю четные числа и четверги. Иногда для развлечения паяю микросхемы. Запустила скрипт на hh, который автоматически откликается на вакансии.
 - 📫 Telegram для связи: @baconanna
+
+Hi 👋
+
+My name is Anya. I recently finished my training at Yandex.Practicum in Data Analysis, and so now:
+
+- 🔭 I'm looking for a job as a Data Analyst in IT.
+- 💬 High level googling in Russian and English.
+- 🌱 I'm continuing to tighten up my hard-skills analytics and spoken English.
+- ⚡ Fan Facts: I love even numbers and Thursdays. Sometimes I solder circuits for fun. 
+- 📫 Telegram for contact: @baconanna
 -->
